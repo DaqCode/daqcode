@@ -5,7 +5,7 @@ Aspiring game developer and designer, USC student in IMGD. Experience in GDScrip
 ## <div align="center">🍀About me</div>
 I lived my life without ever knowing what I'd do. During 9th grade, I started to grow interested in the mechanics of video games, leading me to finding solace in programming and designing. As of 10th grade and inspiration from another game developer I met, I've realized my love for video games and my creativity. I started from Godot, then moved onto many other languages. 
 
-I've participated in over 10 game jams, created personal projects, and now currently work on [Brave Frontier: ReCoded]().
+I've participated in over 10 game jams, created personal projects, and now currently work on [Brave Frontier: ReCoded](https://www.bravefrontierrecoded.online/en).
 
 If you are interested in collaborating on a game, feel free to reach out! I'd like to learn a lot more in programming and designing a great game with you!
 
